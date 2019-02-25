@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\vaish\.gradle\caches\modules-2\files-2.1\org.eclipse.birt.runtime.3_7_1\org.apache.commons.codec\1.3.0\72c73f3729b4ca49dac8691fb5adb194e8595799\org.apache.commons.codec-1.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="72c73f3729b4ca49dac8691fb5adb194e8595799">
+        <dex dex="C:\Users\vaish\AndroidStudioProjects\GoSafe\app\build\intermediates\transforms\dex\debug\folders\1000\10\org.apache.commons.codec-1.3.0_8b1857a8004a51045e9c5c68e5b6074ce686f49c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\vaish\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\vaish\AndroidStudioProjects\GoSafe\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_7fbbbaa41e2a8ed505c4d7b49db2454e730d5b28\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\vaish\AndroidStudioProjects\GoSafe\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\vaish\AndroidStudioProjects\GoSafe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_9a8654fb72e3d405509611cd481c8ebeb0532df1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\vaish\AndroidStudioProjects\GoSafe\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\vaish\AndroidStudioProjects\GoSafe\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_ef2ea6b5b628e622697589cae5b68fe3b44ed149\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\vaish\.gradle\caches\modules-2\files-2.1\com.github.frankiesardo\auto-parcel\0.2\d28e477be0a5a3f8fc6770310868528563c3fd37\auto-parcel-0.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d28e477be0a5a3f8fc6770310868528563c3fd37">
+        <dex dex="C:\Users\vaish\AndroidStudioProjects\GoSafe\app\build\intermediates\transforms\dex\debug\folders\1000\10\auto-parcel-0.2_2f06dbbb651b4ee3753aa4cb6103bba05f78bd2e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\vaish\AndroidStudioProjects\GoSafe\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="113b31502fffec1ad9c6e57226111641592dd2af">
+        <dex dex="C:\Users\vaish\AndroidStudioProjects\GoSafe\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_61c22b9feb40e5660c52d428e3353b94dfa19bde\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\vaish\AndroidStudioProjects\GoSafe\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Users\vaish\AndroidStudioProjects\GoSafe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.3.0_95a777d5cd5ebe5714d11ef86fb2df47835a31d5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\vaish\AndroidStudioProjects\GoSafe\app\build\intermediates\exploded-aar\com.punchthrough.bean.sdk\sdk\2.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c1e5976c0fd76ef73ea08870e797723e444cd3ed">
+        <dex dex="C:\Users\vaish\AndroidStudioProjects\GoSafe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.punchthrough.bean.sdk-sdk-2.0.1_efa1d9d19e0195a7a9df91fd709d3260ba6a475d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\vaish\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.0.0\2534c458682c73f5b9871131ab3098d3f987ca3\okio-1.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="02534c458682c73f5b9871131ab3098d3f987ca3">
+        <dex dex="C:\Users\vaish\AndroidStudioProjects\GoSafe\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.0.0_1223d69d2289a87594a6c1b33605d632f9a4629f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\vaish\AndroidStudioProjects\GoSafe\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Users\vaish\AndroidStudioProjects\GoSafe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.3.0_903b3bb50dabd3214438865cc920e46956c406ad\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\vaish\AndroidStudioProjects\GoSafe\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="17bf578d1938f64f011aa1a549d604e2ad8041d1">
+        <dex dex="C:\Users\vaish\AndroidStudioProjects\GoSafe\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_375b98d7b7b72c40782d013d19605070336b8019\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\vaish\AndroidStudioProjects\GoSafe\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\vaish\AndroidStudioProjects\GoSafe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.3.0_f509d8e46f7d9b2a0454596f3ce8814afdcd1a0a\classes.dex" />
+    </item>
+
+</items>
